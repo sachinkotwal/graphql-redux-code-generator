@@ -1,0 +1,1 @@
+# graphql-redux-code-generator
